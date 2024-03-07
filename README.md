@@ -19,6 +19,10 @@ platform       x86_64-w64-mingw32
 
 # General Discussion and Q&A
 For any further request, anyone is welcome to participate on the discussion in the forum or directly contact the authors
-Elia Gatto  (1. Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Ferrara, Italy; 2. Department of Life Sciences and Biotechnology, University of Ferrara, Ferrara, Italy)
-Tyone Lucon-Xiccato (2. Department of Life Sciences and Biotechnology, University of Ferrara, Ferrara, Italy)
-Cristiano Bertolucci (2. Department of Life Sciences and Biotechnology, University of Ferrara, Ferrara, Italy)
+
+Elia Gatto 1,2  
+Tyone Lucon-Xiccato 2
+Cristiano Bertolucci 2
+
+1. Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Ferrara, Italy
+2. Department of Life Sciences and Biotechnology, University of Ferrara, Ferrara, Italy
