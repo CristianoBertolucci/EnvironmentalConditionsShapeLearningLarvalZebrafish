@@ -1,5 +1,5 @@
 # EnvironmentalConditionsShapeLearningLarvalZebrafish
-The present study aimed to investigate whether early experiences of environmental complexity might shape òearning performance in zebrafish (_Danio rerio_) larvae. Briefly, newly-hatched larvae (3-days post fertilization) were exposed to either an enriched environment containing Lego® bricks or barren conditions. Then, a control test based on the response to a novel environment (Open-Field Test) and a Vibrational Startle Response Assay were performed to assess individual differences due to the environmental conditions experienced.
+The present study aimed to investigate whether early experiences of environmental complexity might shape learning performance in zebrafish (_Danio rerio_) larvae. Briefly, newly-hatched larvae (3-days post fertilization) were exposed to either an enriched environment containing Lego® bricks or barren conditions. Then, a control test based on the response to a novel environment (Open-Field Test) and a Vibrational Startle Response Assay were performed to assess individual differences due to the environmental conditions experienced.
 
 This is the main repository containing the .xlsx data files and the R source code used for assessing differences due to the treatment condition.
 
