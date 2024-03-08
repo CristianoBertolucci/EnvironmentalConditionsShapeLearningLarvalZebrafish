@@ -27,8 +27,11 @@ getwd()
 
 # Loading data from "Dataset" .xlsx
 # Sheet 2 = behavioural paramenter describing response of the larvae to the open-field test
-# Sheet 3 = behavioural response in response to repeated stimulation during the habituation learning test
-# Sheet 4 = average individual size (i.e., total lenght)
+# Sheet 3 = behavioural response to repeated stimulation during the habituation learning test
+# Sheet 4 = average individual size (i.e., total length)
+
+# The variable "animal_id": idetifaction code used for identifying each subject.
+# Due to the repeated measures structure of data (within-subject observation), we consider the individual as random factor in the linear mixed-effect model
 
 # First analysis: open-field test
 data_OF<-data.frame(read_excel("./Dataset.xlsx",sheet=2))
